@@ -1,3 +1,3 @@
-*"Welcome to our second slide!"*
+*"Welcome to this second slide!"*
 
 Hellooo
